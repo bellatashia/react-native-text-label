@@ -1,0 +1,46 @@
+{
+  "name": "react-native-text-label",
+  "version": "1.0.0",
+  "description": "React Native basic text label component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellatashia/react-native-text-label.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "android",
+    "ios",
+    "ui",
+    "text-label",
+    "label",
+    "text",
+    "react\\",
+    "native"
+  ],
+  "author": "Bella Tashia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bellatashia/react-native-text-label/issues"
+  },
+  "homepage": "https://github.com/bellatashia/react-native-text-label#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.14.2",
+    "metro-react-native-babel-preset": "^0.54.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
